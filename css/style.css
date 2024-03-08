@@ -21,7 +21,7 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    
+
     display: flex;
     align-items: center;
     justify-content: center;
@@ -198,4 +198,13 @@ body {
     font-weight: bold;
     margin-top: 10px;
     color: #f05f40;
+}
+
+/* Mailchimp */
+#mc_embed_signup {
+    padding: 0;
+    background: #fff;
+    clear: left;
+    font: 14px Helvetica, Arial, sans-serif;
+    width: 450px;
 }
